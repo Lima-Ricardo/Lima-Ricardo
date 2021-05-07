@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 🎮My objective? write codes, work on developing games and apps.
 
 
-
+![profile photo](https://github.com/Lima-Ricardo/Lima-Ricardo/blob/main/profile.2.png)
